@@ -1,0 +1,41 @@
+1. 队列的基本概念和性质
+先进先出，只允许在表的一端进行插入（rear），在表的另一端进行删除(front)
+
+2. 队列ADT及顺序
+ADT Queue
+{
+    数据
+        数据项列表
+        Front： 表示队头位置
+        Rear: 表示队尾位置
+        Count: 队列中元素的个数 (Rear - Front + MaxSize)%MaxSize;
+    操作
+        InitQueue
+            Input: 无
+            Precondition: 无
+            Process: 构造一个空队列
+            Precondition: 无
+            Output
+        QueueEmpty
+            Process： Rear=Front?
+        QueueFull： 
+            Process: (Rear +1)%MaxSize==Front)?
+        EnQueue： 
+            Process：++Rear
+        DeQueue
+            Process: ++Front
+        GetFront
+        ClearQueue
+        DestroyQueue
+}
+3. 链接实现
+
+队列的存储方式： 顺序存储和链接存储
+用链接存储方式表示的队列称为链队列。它是限制在表头删除和表位插入的单链表。 
+用链接存储的方式，可以共享一个存储区域，以节省空间。适合于结点插入或删除频繁，存储空间需求不能预先确定的情形
+
+链表与数组
+
+4. 队列的应用
+排队
+输出杨辉三角
