@@ -229,15 +229,15 @@ public int[] MergeSort(int low , int high)
     return SortList;
 }
 
-public void Merge( int low, int mid, int high)
+public void Merge(int low, int mid, int high)
 {
-    int i =low; 
-    int j=mid+1;
+    int i = low;
+    int j = mid + 1;
     List<int> tempList = new List<int>();
 
-    while(i<=mid && j<=high)
+    while (i <= mid && j <= high)
     {
-        if(SortList[i]<SortList[j])
+        if (SortList[i] < SortList[j])
         {
             tempList.Add(SortList[i]);
             i++;
@@ -247,19 +247,22 @@ public void Merge( int low, int mid, int high)
             tempList.Add(SortList[j]);
             j++;
         }
+    }
 
-        while(i<=mid)
-        {
-            tempList.Add(SortList[i]);
-            i++;
-            }
-        while(j<=high)
-        {tempList.Add(SortList[j]);
+    while (i <= mid)
+    {
+        tempList.Add(SortList[i]);
+        i++;
+    }
+    while (j <= high)
+    {
+        tempList.Add(SortList[j]);
         j++;
-        }
+    }
 
-        for(int a=low; a<=high;a++)
-        {SortList[a]=tempList[a];}
+    for (int a = low; a <= high; a++)
+    {
+        SortList[a] = tempList[a];
     }
 
 }
