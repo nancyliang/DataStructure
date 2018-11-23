@@ -9,3 +9,14 @@ C:\Practice\obj\Debug\netcoreapp2.1\Practice.AssemblyInfoInputs.cache
 C:\Practice\obj\Debug\netcoreapp2.1\Practice.AssemblyInfo.cs
 C:\Practice\obj\Debug\netcoreapp2.1\Practice.dll
 C:\Practice\obj\Debug\netcoreapp2.1\Practice.pdb
+C:\DataStructure\DataStructure\Practice\bin\Debug\netcoreapp2.1\Practice.deps.json
+C:\DataStructure\DataStructure\Practice\bin\Debug\netcoreapp2.1\Practice.runtimeconfig.json
+C:\DataStructure\DataStructure\Practice\bin\Debug\netcoreapp2.1\Practice.runtimeconfig.dev.json
+C:\DataStructure\DataStructure\Practice\bin\Debug\netcoreapp2.1\Practice.dll
+C:\DataStructure\DataStructure\Practice\bin\Debug\netcoreapp2.1\Practice.pdb
+C:\DataStructure\DataStructure\Practice\obj\Debug\netcoreapp2.1\Practice.csprojAssemblyReference.cache
+C:\DataStructure\DataStructure\Practice\obj\Debug\netcoreapp2.1\Practice.csproj.CoreCompileInputs.cache
+C:\DataStructure\DataStructure\Practice\obj\Debug\netcoreapp2.1\Practice.AssemblyInfoInputs.cache
+C:\DataStructure\DataStructure\Practice\obj\Debug\netcoreapp2.1\Practice.AssemblyInfo.cs
+C:\DataStructure\DataStructure\Practice\obj\Debug\netcoreapp2.1\Practice.dll
+C:\DataStructure\DataStructure\Practice\obj\Debug\netcoreapp2.1\Practice.pdb

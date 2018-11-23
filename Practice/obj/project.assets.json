@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Practice\\Practice.csproj",
+      "projectUniqueName": "C:\\DataStructure\\DataStructure\\Practice\\Practice.csproj",
       "projectName": "Practice",
-      "projectPath": "C:\\Practice\\Practice.csproj",
+      "projectPath": "C:\\DataStructure\\DataStructure\\Practice\\Practice.csproj",
       "packagesPath": "C:\\Users\\Nancy.Liang\\.nuget\\packages\\",
-      "outputPath": "C:\\Practice\\obj\\",
+      "outputPath": "C:\\DataStructure\\DataStructure\\Practice\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
